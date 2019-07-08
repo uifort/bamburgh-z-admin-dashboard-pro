@@ -9,7 +9,7 @@
     <a href="https://twitter.com/intent/tweet?url=https://uifort.com/pro-admin-dashboards/bamburgh-admin-dashboard-pro.html&text=Bamburgh%20is%20a%20PRO%20Bootstrap%204%20Admin%20Dashboard%20that%20is%20perfect%20for%20building%20large%20scale%20application%20interfaces%20and%20presentation%20websites.">
         <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
     </a>
-    <a href="https://twitter.com/designrevision">
+    <a href="https://twitter.com/uifort1">
         <img src="https://img.shields.io/twitter/follow/uifort1.svg?style=social&label=Follow" />
     </a>
 </h1>
